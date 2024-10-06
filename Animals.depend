@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1721247660 source:f:\c++ corse\«·»—‰«„Ã\animals\main.cpp
+	<iostream>
+	<animals.h>
+	<lion.h>
+	<bird.h>
+
+1721244960 source:f:\c++ corse\«·»—‰«„Ã\animals\src\animals.cpp
+	"animals.h"
+
+1721217801 f:\c++ corse\«·»—‰«„Ã\animals\include\animals.h
+	<iostream>
+
+1721219879 source:f:\c++ corse\«·»—‰«„Ã\animals\src\lion.cpp
+	"lion.h"
+
+1721218070 f:\c++ corse\«·»—‰«„Ã\animals\include\lion.h
+	<animals.h>
+
+1721247172 source:f:\c++ corse\«·»—‰«„Ã\animals\src\bird.cpp
+	"bird.h"
+
+1721247387 f:\c++ corse\«·»—‰«„Ã\animals\include\bird.h
+	<animals.h>
+
+1721247322 source:f:\c++ corse\«·»—‰«„Ã\animals\src\fish.cpp
+	"fish.h"
+
+1721247387 f:\c++ corse\«·»—‰«„Ã\animals\include\fish.h
+	<animals.h>
+
